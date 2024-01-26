@@ -5,7 +5,7 @@
 If you like this project, consider sponsoring it on GitHub! [Sponsors](https://github.com/sponsors/skelsec/)
 
 # EVILRDP - More control over RDP
-Th evil twin of [`aardwolfgui`](https://github.com/skelsec/aardwolfgui) using the [`aardwolf`](https://github.com/skelsec/aardwolf) RDP client library that gives you extended control over the target and additional scripting capabilities from the command line.
+The evil twin of [`aardwolfgui`](https://github.com/skelsec/aardwolfgui) using the [`aardwolf`](https://github.com/skelsec/aardwolf) RDP client library that gives you extended control over the target and additional scripting capabilities from the command line.
 
 # Features
  - Control mouse and keyboard in an automated way from command line
